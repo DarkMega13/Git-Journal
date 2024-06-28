@@ -3,4 +3,4 @@ A:
 Q: When does it make sense to push?
 A:
 Q: Could you push multiple commits?
-A:
+A: Yes.
