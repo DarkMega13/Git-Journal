@@ -14,6 +14,6 @@ Make a commit: 6
 
 Push commit(s): 5
 
-Make a branch: 0
+Make a branch: 1
 
 Merge a branch: 0
